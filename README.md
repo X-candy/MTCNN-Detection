@@ -1,2 +1,2 @@
-# X-candy-MTCNN-Detection
+# MTCNN-Detection
 MTCNN-Detection
